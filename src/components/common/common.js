@@ -1,0 +1,2 @@
+
+global.BASEURL = 'http://localhost'
